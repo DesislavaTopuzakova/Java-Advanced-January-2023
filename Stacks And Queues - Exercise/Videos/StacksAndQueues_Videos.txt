@@ -1,0 +1,6 @@
+06. Recursive Fibonacci -> https://pastebin.com/E58jfqgB
+видео: https://www.youtube.com/watch?v=z3wWIVUwNAo&t=10300s
+
+10. Robotics (решение с Map) -> https://pastebin.com/r2yYHatm
+10. Robotics (решение с масив) -> https://pastebin.com/h7FivYpT
+видео: https://www.youtube.com/watch?v=XK-rdc4oCl8&t=3345s
