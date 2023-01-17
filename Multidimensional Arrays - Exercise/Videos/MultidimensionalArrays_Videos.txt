@@ -1,0 +1,12 @@
+Multidimensional Arrays - Exercise - Videos
+04. Maximal Sum
+видео: https://youtu.be/d7xzSoeQnUQ?t=6549
+решение: https://pastebin.com/1jCzr9XG
+
+02. Formula One
+Линк към задачата: https://judge.softuni.org/Contests/Practice/Index/3018#1
+Решение: https://pastebin.com/RDwSX6fC
+Видео: https://youtu.be/ToZNX6FLWwg?t=11605
+
+07. Crossfire (с лист от листове) ->  https://pastebin.com/dAGyPkt8
+видео: https://youtu.be/D2Zfs38iDZE?t=8803
